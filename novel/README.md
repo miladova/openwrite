@@ -23,6 +23,7 @@ Warsaw, November 1943. Poland's only female surgeon in a leading position is cal
 
 See `OUTLINE.md` for the full 20-chapter plan.
 Manuscript chapters live in `chapters/`, numbered `01-*.md` through `20-*.md`.
+Formatted PDFs are built by `build_pdf.py` and live in `pdf/` (one per chapter, plus `RANA-manuscript.pdf`).
 
 ## Status
 
